@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-# Hi, I'm Adina 👋
+# Hi there! 👋🏽 I'm Adina Nadeem.
 
 [![Linkedin Badge](https://img.shields.io/badge/-adinanadeem-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adina-nadeem/)](https://www.linkedin.com/in/adina-nadeem/)
 [![Medium Badge](https://img.shields.io/badge/-@adinanadeem-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@adinanadeem)](https://medium.com/@adinanadeem)
