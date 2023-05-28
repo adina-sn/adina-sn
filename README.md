@@ -11,7 +11,7 @@
 
 Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@adinanadeem), bioinformatics enthusiast and full-time adventure seeker. I am current interning @na.gov.pk, and would like to work in the biotech industry. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/adinanadeem/)!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&layout=compact)](https://github.com/a-nadeem9/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=a-nadeem9.a-nadeem9)
 
