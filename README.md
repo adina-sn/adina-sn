@@ -1,5 +1,3 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
 [![Linkedin Badge](https://img.shields.io/badge/-adinanadeem-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adina-nadeem/)](https://www.linkedin.com/in/adina-nadeem/)
 [![Website Badge](https://img.shields.io/badge/-adinanadeem.info-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://adinanadeem.info)](https://adinanadeem.info)
 [![Gmail Badge](https://img.shields.io/badge/-adinanadeem-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adinanadeem@gmail.com)](mailto:adinanadeem@gmail.com)
