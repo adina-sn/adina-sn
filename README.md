@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-adinanadeem-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adina-nadeem/)](https://www.linkedin.com/in/adina-nadeem/)
-[![Website Badge](https://img.shields.io/badge/-adinanadeem.info-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://adinanadeem.info)](https://adinanadeem.info)
+[![Medium Badge](https://img.shields.io/badge/-adinanadeem-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@adinanadeem)](https://medium.com/@adinanadeem)
 [![Gmail Badge](https://img.shields.io/badge/-adinanadeem-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adinanadeem@gmail.com)](mailto:adinanadeem@gmail.com)
 
 > Learning with the challenges | Growing with the data
