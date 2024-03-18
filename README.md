@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on research papers
 - 📫 How to reach me: adinanadeem at gmail dot com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&layout=compact&token=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)](https://github.com/a-nadeem9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&hide=jupyternotebook&layout=compact&token=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)](https://github.com/a-nadeem9/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=a-nadeem9.a-nadeem9)
 
