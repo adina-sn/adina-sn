@@ -5,10 +5,12 @@
 > Learning with the challenges | Growing with the data
 
 - 👋 Hi, I’m @a-nadeem9
-- 👀 I’m interested in applications of machine learning in the realm of bioinformatics.
-- 🌱 I’m a bioinformatics graduate 
-- 💞️ I’m looking to collaborate on research papers
-- 📫 How to reach me: adinanadeem at gmail dot com
+- 🎓 MSc Bioinformatics Student @ Freie Universität Berlin 
+- 🧠 Interested in ML x Bioinformatics  
+- 📝 Open to research collaborations  
+- 📫 Reach me:  
+  • adinanadeem [at] gmail [dot] com  
+  • adina [dot] nadeem [at] fu-berlin [dot] de
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&hide=jupyter%20notebook,makefile&layout=compact&token=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)](https://github.com/a-nadeem9/github-readme-stats)
 
