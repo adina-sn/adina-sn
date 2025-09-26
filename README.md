@@ -4,7 +4,7 @@
 
 > Learning with the challenges | Growing with the data
 
-- 👋 Hi, I’m @a-nadeem9
+- 👋 Hi, I’m Adina
 - 🎓 MSc Bioinformatics Student @ Freie Universität Berlin 
 - 🧠 Interested in ML x Bioinformatics  
 - 📝 Open to research collaborations  
@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&hide=jupyter%20notebook,makefile&layout=compact&token=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)](https://github.com/a-nadeem9/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=a-nadeem9.a-nadeem9)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adina-sn.adina-sn)
 
 
