@@ -12,8 +12,8 @@
   • adinanadeem [at] gmail [dot] com  
   • adina [dot] nadeem [at] fu-berlin [dot] de
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adina-sn&hide=jupyter%20notebook,makefile&layout=compact&token=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)](https://github.com/adina-sn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-nadeem9&hide=jupyter%20notebook,makefile&layout=compact&token=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)](https://github.com/a-nadeem9/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adina-sn.adina-sn)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=a-nadeem9.a-nadeem9)
 
 
